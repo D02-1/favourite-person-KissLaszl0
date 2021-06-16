@@ -1,6 +1,9 @@
 body{
     background-color: burlywood;
 }
+h4{
+    color: darkred;
+}
 .wiki{
     
     width: 70%;
