@@ -1,7 +1,16 @@
 body{
     background-color: burlywood;
 }
+.wiki{
+    
+    width: 70%;
+    height: 300 px;
+    background-color: rgb(168, 177, 177);
 
+}
+.wiki .text{
+    color: rgb(40, 47, 83);
+}
 .header{
    background-color: cadetblue;
     width: 100%;
