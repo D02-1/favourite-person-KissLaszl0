@@ -1,6 +1,7 @@
 body{
     background-color: burlywood;
 }
+
 .header{
    background-color: cadetblue;
     width: 100%;
@@ -44,4 +45,17 @@ li:nth-child(odd){
     background-color: brown;
     color:blueviolet;
     border-radius: 5px;
+}
+.page2{
+
+    padding: 40px 40px 40px 40px;
+    
+    background-color: brown;
+    opacity: 0.8;
+    color:cornsilk;
+    font-size: 17px;
+}
+.page3{
+    height: 200px;
+    background-color: cadetblue;
 }
