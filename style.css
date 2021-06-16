@@ -1,0 +1,11 @@
+body{
+    background-color: burlywood;
+}
+.header{
+   background-color: cadetblue;
+    width: 100%;
+    height: 100px;
+    color: blueviolet;
+    text-align:center; 
+    padding-top: 30px;
+}
